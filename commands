@@ -1,0 +1,11 @@
+git init */ Initialize local git repo
+git add <file> */ add file to staging area
+git rm --cached <file> */ stop tracking changes
+git status */ check status of working tree
+git commit */ commit changes in staging area
+git push */ push into remote repo
+git pull */ pull latest from remote repo
+git clone */ clone remote repo locally
+git branch <branch name> */ create a new branch
+git checkout <branch name> */ switch to a branch
+git merge <branch name> */ merge a branch with another
